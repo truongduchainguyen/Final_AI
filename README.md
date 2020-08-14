@@ -12,7 +12,7 @@ Create label with exact name [car] [motorbike] and Save .json annotation and ima
 
 ### 3/Convert from labelme JSON to Pascal VOC
 Because Keras YOLO V3 required Pasal VOC annotation so we have to convert it.
-Please use labelme2voc.py script included in this git to convert labelme JASON to Pasal VOC for Keras YOLO V3.
+Please use labelme2voc.py script included in this git to convert labelme JSON to Pasal VOC for Keras YOLO V3.
 
 ### Train Data
 #### Further instruction is inside the Colab Notebook.
