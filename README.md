@@ -1,5 +1,5 @@
-# Final_AI
-Final Project for AI
+# Pet Project #1
+Motorbike and Car Detection in Vietnam
 
 ## KerasYoloV3 TrafficTracking
 ### Prepare data
